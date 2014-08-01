@@ -20,6 +20,8 @@ var tests = []testpair {
   { 6, "VI"},
   { 11, "XI"},
   { 3999, "MMMCMXCIX"},
+  { 40, "XL" },
+  { 445, "CDXLV"},
 }
 
 func TestRoman(t *testing.T) {
