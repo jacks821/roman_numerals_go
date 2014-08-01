@@ -25,18 +25,21 @@ var romans = map[int]map[int]string{
      50 : "L",
   },
   7 : map[int]string{
-     10 : "X",
+    40 : "XL"
   },
   8 : map[int]string{
-     9 : "IX",
+     10 : "X",
   },
   9 : map[int]string{
-     5 : "V",
+     9 : "IX",
   },
   10 : map[int]string{
-    4 : "IV",
+     5 : "V",
   },
   11 : map[int]string{
+    4 : "IV",
+  },
+  12 : map[int]string{
      1 : "I",
   },
 }
